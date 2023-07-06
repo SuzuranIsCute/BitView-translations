@@ -646,15 +646,15 @@ $LANGS['cat_ZM'] = "赞比亚";
 $LANGS['cat_ZW'] = "津巴布韦";
 
 /* My Subscriptions */
-$LANGS['newvideos'] = "New Videos";
+$LANGS['newvideos'] = "新发布的视频";
 
 /* Account */
-$LANGS['myaccount'] = "My Account";
-$LANGS['vidsfavs'] = "Videos, Favorites and Playlists";
-$LANGS['accountsettings'] = "Account Settings";
-$LANGS['viewinghistory'] = "History";
-$LANGS['mychannel'] = "My Channel";
-$LANGS['uploadedvideos'] = "Uploaded Videos";
+$LANGS['myaccount'] = "我的账号";
+$LANGS['vidsfavs'] = "视频，喜爱的视频和播放列表";
+$LANGS['accountsettings'] = "账号设置";
+$LANGS['viewinghistory'] = "历史记录";
+$LANGS['mychannel'] = "我的频道";
+$LANGS['uploadedvideos'] = "上传的视频";
 $LANGS['new'] = "New";
 $LANGS['playlist'] = "Playlist";
 $LANGS['videoupload'] = "Video Upload";
@@ -1067,22 +1067,22 @@ $LANGS['abouthelp'] = 'To learn more about our service, please see our <a href="
 $LANGS['aboutmail'] = 'Please feel free to <a href="mailto:contact@vidlii.co">contact us</a>.';
 
 /* Community Guidelines */
-$LANGS['bvguidelines'] = 'BitView Community Guidelines';
-$LANGS['aboutguidelines'] = 'About the BitView Guidelines';
-$LANGS['aboutguidelinesdesc'] = "The BitView Guidelines should be self explanatory and are very easy to understand. They try to appeal to as many types of different people as possible. Please try to follow the few rules we have and you won't get in trouble!";
-$LANGS['therules'] = 'The Rules';
-$LANGS['rule1'] = "Videos of sexual acts aren't allowed. The same counts for animation!";
-$LANGS['rule2'] = "Spamming on profiles, comments, messages and reports is not allowed.";
-$LANGS['rule3'] = "Videos that promotes extremist ideologies in a positive light is not allowed.";
-$LANGS['rule4'] = "Videos and profile names that promotes harm / harassment towards an individuals / companies / groups aren't allowed.";
-$LANGS['rule5'] = "Videos and profile images that contain gore, torture, suicide, beheadings, shootings, killing, crushing sentient beings and skin tearing is not allowed. animated/cartoonish gore is allowed but it can't be to the point where it can be deemed as realistic.";
-$LANGS['rule6'] = "Videos that contain abuse towards animals aren't allowed.";
-$LANGS['rule7'] = "Advertisements for Services or Websites in video or comment form aren't allowed.";
-$LANGS['rule8'] = "Don't attempt to brute force an account you don't own.";
-$LANGS['rule9'] = "Don't use more than one account to rate videos and/or comments. You are not allowed to use multiple alt accounts to subscribe to yourself either.";
-$LANGS['rule10'] = "Ban evasion is <b>NOT</b> accepted. Every new account that has been created by banned person will be automatically deleted.";
-$LANGS['rule11'] = "Sharing your login details with anyone else is not allowed.";
-$LANGS['enforceguidelines'] = "We Enforce These Guidelines";
+$LANGS['bvguidelines'] = 'BitView社区准则';
+$LANGS['aboutguidelines'] = '关于准则';
+$LANGS['aboutguidelinesdesc'] = "遵守我们的准则是每个账号必须承担的责任。所以，请遵守我们的准则以免遭受到任何后果吧！";
+$LANGS['therules'] = '准则列表';
+$LANGS['rule1'] = "不可上传包含任何形式的色情内容的视频。";
+$LANGS['rule2'] = "不可对任何用户发布关于诈骗的内容。";
+$LANGS['rule3'] = "不可上传任何宣扬仇恨言论，或美化极端主义、恐怖主义的视频。";
+$LANGS['rule4'] = "不可上传或使用对某个群体表示仇恨态度的视频或名字。";
+$LANGS['rule5'] = "不可上传或使用包含血腥或暴力内容的视频或图片作为个人照。然而动漫形式的血腥内容是可允许的，但是不能达到被认为逼真的程度。Videos and profile images that contain gore, torture, suicide, beheadings, shootings, killing, crushing sentient beings and skin tearing is not allowed. animated/cartoonish gore is allowed but it can't be to the point where it can be deemed as realistic.";
+$LANGS['rule6'] = "不可上传关于动物虐待的视频。";
+$LANGS['rule7'] = "不可以视频或留言的形式发布广告。";
+$LANGS['rule8'] = "不可试图破解或黑入不属于自己的账号。";
+$LANGS['rule9'] = "不可使用多个账户评价自己的视频，在自己的视频发布留言或订阅自己的账号。";
+$LANGS['rule10'] = "忽略禁令是 <b>不被允许</b> 的。每个被封禁者所注册的新账号将自动被删除。";
+$LANGS['rule11'] = "请不要将自己账号的隐私（如密码等等）泄漏。";
+$LANGS['enforceguidelines'] = "总之，这就是我们的准则，你记住了吗？";
 $LANGS['enforceguidelinesdesc'] = "Okay, this one is more about us than you. BitView staff review flagged videos about once per year to determine whether they violate our Community Guidelines.
 <br>When they do, we remove them. Accounts are penalized for Community Guidelines violations and serious or repeated violations can lead to account termination. <br>Don't try to find loopholes and lawyer your way around those simple rules.";
 
