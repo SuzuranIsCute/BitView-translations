@@ -281,7 +281,7 @@ $LANGS['reply'] = '回复';
 $LANGS['commentlogin'] = '您是否要在视频下方评论？';
 $LANGS['commentlogindesc'] = '<a href="/signup">Join BitView</a> for a free account or <a href="/login">sign in</a> if you are already a member.';
 $LANGS['logintoresponse'] = 'Sign in to post a Video Response';
-$LANGS['logintocomment'] = 'Sign in to post a Comment';
+$LANGS['logintocomment'] = '请登入后才可发布评论！';
 $LANGS['logintofav'] = '想添加至喜爱的视频中？ <a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';
 $LANGS['logintopl'] = '想添加至播放列表中？ <a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';
 $LANGS['logintoflag'] = '举报此视频？ <a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';
@@ -1045,31 +1045,31 @@ $LANGS['letter'] = "Dear Co-Owners, Developers, and Moderators of BitView,<br><b
 $LANGS['backtobitview'] = "Back to BitView";
 
 /* My Friends */
-$LANGS['myfriends'] = 'My Friends';
-$LANGS['invites'] = 'Invites';
-$LANGS['myinvites'] = 'My Invites';
-$LANGS['incominginvites'] = 'Incoming Invites';
-$LANGS['noinvites'] = 'You have no invites...';
-$LANGS['actions'] = 'Actions';
-$LANGS['retract'] = 'Retract';
+$LANGS['myfriends'] = '我的好友';
+$LANGS['invites'] = '好友邀请';
+$LANGS['myinvites'] = '由我发送';
+$LANGS['incominginvites'] = '由其他人发送;
+$LANGS['noinvites'] = '没有任何好友邀请...';
+$LANGS['actions'] = '接受';
+$LANGS['retract'] = '拒绝';
 
 /* About */
-$LANGS['aboutus'] = 'About Us';
-$LANGS['abouttitle'] = 'What is BitView?';
-$LANGS['aboutdesc'] = 'BitView is a way to get your videos to the people who matter to you. With BitView you can:';
-$LANGS['about1'] = 'Show off your favorite videos to the world';
-$LANGS['about2'] = 'Take videos of your dogs, cats, and other pets';
-$LANGS['about3'] = 'Blog the videos you take with your digital camera or cell phone';
-$LANGS['about4'] = 'Securely and privately show videos to your friends and family around the world';
-$LANGS['about5'] = '... and much, much more!';
-$LANGS['aboutsignup'] = '<a href="/signup">Sign up now</a> and open a free account.';
-$LANGS['abouthelp'] = 'To learn more about our service, please see our <a href="help">Help</a> section.';
+$LANGS['aboutus'] = '关于我们';
+$LANGS['abouttitle'] = '什么是BitView？';
+$LANGS['aboutdesc'] = 'BitView是其中一种将您的视频分享给您的好友的方式。使用BitView，您可以：';
+$LANGS['about1'] = '向全世界展示您喜爱的视频';
+$LANGS['about2'] = '拍摄关于您可爱的宠物的视频';
+$LANGS['about3'] = '上传使用相机或者手机拍摄的视频';
+$LANGS['about4'] = '安全并私密地向您的家人和来自世界各地朋友展示您的视频';
+$LANGS['about5'] = '...和其他用途！';
+$LANGS['aboutsignup'] = '立即 <a href="/signup">注册</a> 一个新账号吧！';
+$LANGS['abouthelp'] = '如想知道详细To learn more about our service, please see our <a href="help">帮助</a> 。';
 $LANGS['aboutmail'] = 'Please feel free to <a href="mailto:contact@vidlii.co">contact us</a>.';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'BitView社区准则;';
-$LANGS['aboutguidelines'] = 'About the BitView Guidelines';
-$LANGS['aboutguidelinesdesc'] = "The BitView Guidelines should be self explanatory and are very easy to understand. They try to appeal to as many types of different people as possible. Please try to follow the few rules we have and you won't get in trouble!";
+$LANGS['aboutguidelines'] = '关于我们的社区准则';
+$LANGS['aboutguidelinesdesc'] = "每个用户必当遵守我们的社区准则。遵守我们的准则不仅是每个用户的责任，更是为了让大家维护一个友善美好的网络环境。";
 $LANGS['therules'] = '准则列表';
 $LANGS['rule1'] = "不可发布任何形式的包含色情内容的视频。";
 $LANGS['rule2'] = "不可对任何用户进行或发布诈骗。";
