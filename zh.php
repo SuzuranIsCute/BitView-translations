@@ -9,7 +9,7 @@ $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 
 
 /* Language window */
 $LANGS['welcometobitview'] = '欢迎来到BitView!';
-$LANGS['languagesuggestion'] = 'Suggested Language (we have set your preference to this):';
+$LANGS['languagesuggestion'] = '推荐的语言（我们将您的Suggested Language (we have set your preference to this):';
 $LANGS['languagesuggestiondesc1'] = '如要更换语言，请点击“语言”（位于网站下方）';
 $LANGS['languagesuggestiondesc2'] = '点击 "OK" 以同意此设定，或点击 "取消" 以继续使用英文。';
 
@@ -288,7 +288,7 @@ $LANGS['logintoflag'] = '想要举报此视频？ 立即 <a href="/login">登入
 $LANGS['close'] = '关闭';
 $LANGS['addresponse'] = 'Add Response';
 $LANGS['recentlyrated'] = '最近评价的用户';
-$LANGS['commentsdisabled'] = '此视频禁止用户发布评论。';
+$LANGS['commentsdisabled'] = '此视频已禁用评论。';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'All Comments';
@@ -312,7 +312,7 @@ $LANGS['wrongpassword'] = '密码错误，请重试！';
 $LANGS['staysigned'] = "保持登入状态";
 
 /* Sign Up */
-$LANGS['email'] = "邮箱";
+$LANGS['email'] = "电子邮箱";
 $LANGS['passwordstrength'] = "密码强度";
 $LANGS['psnone'] = "无";
 $LANGS['psweak'] = "弱";
@@ -320,7 +320,7 @@ $LANGS['psfair'] = "不弱";
 $LANGS['psgood'] = "中等";
 $LANGS['psstrong'] = "强";
 $LANGS['repassword'] = "重添密码";
-$LANGS['usernamedesc'] = "您的用户名只能包括A-和数字0-9。";
+$LANGS['usernamedesc'] = "您的用户名只能包括A-Z和数字0-9。";
 $LANGS['captcha'] = "验证";
 $LANGS['acceptterms'] = '我同意 <a href="/terms">使用条款</a> 和 <a href="/privacy">用户隐私政策</a>。';
 $LANGS['copyrighttext'] = 'Uploading materials that you do not own is a copyright violation and against the law. If you upload material you do not own, your account will be deleted.';
@@ -688,31 +688,31 @@ $LANGS['novideos'] = '您目前仍无任何视频。<a href="/my_videos_upload">
 $LANGS['nomyvideosresults'] = "没有任何结果。请检查您的搜索中是否有拼写错误。";
 
 /* Edit Video */
-$LANGS['title'] = "Title";
-$LANGS['desc'] = "Description";
-$LANGS['privacy'] = "Privacy";
-$LANGS['saveinfo'] = "Save Info";
-$LANGS['saveinfoconfirm'] = "Are you sure you want to change the video information?";
-$LANGS['viewchart'] = "View Chart";
-$LANGS['videodetails'] = "Video Details";
-$LANGS['backtopreviouspage'] = "Back to Previous Page";
-$LANGS['editsavechanges'] = "Save Changes";
-$LANGS['editcancel'] = "cancel";
-$LANGS['videoinfo'] = "Video Information";
-$LANGS['videothumbnail'] = "Video Thumbnail";
-$LANGS['uploadthumbnail'] = "Upload Thumbnail";
-$LANGS['customthumbdesc'] = 'To set a custom thumbnail, click the thumbnail on the left side and select your desired image file. Then, click "Upload Thumbnail".';
-$LANGS['customthumbtitle'] = 'Do you want to change this thumbnail?';
-$LANGS['customthumbinfo'] = 'Custom thumbnails are exclusive to partners. To read more about the advantages of joining the partner program and its requirements, click the button below.';
-$LANGS['partnerreadmore'] = 'Read more';
-$LANGS['broadcastingoptions'] = 'Broadcasting and Sharing Options';
-$LANGS['publicdesc'] = "anyone can search for and view - recommended";
-$LANGS['privatedesc'] = "only specific BitView users can view";
-$LANGS['allowcomments'] = "Allow comments automatically";
-$LANGS['allowfriendcomments'] = "Only friends can comment";
-$LANGS['disablecomments'] = "Don't allow comments";
-$LANGS['dateandmap'] = "Date and Map";
-$LANGS['clear'] = "Clear";
+$LANGS['title'] = "标题";
+$LANGS['desc'] = "资讯栏";
+$LANGS['privacy'] = "公开范围";
+$LANGS['saveinfo'] = "保存资讯";
+$LANGS['saveinfoconfirm'] = "您是否要更改此视频资讯？";
+$LANGS['viewchart'] = "观看图标报告";
+$LANGS['videodetails'] = "视频详情";
+$LANGS['backtopreviouspage'] = "回到上一页";
+$LANGS['editsavechanges'] = "保存更改";
+$LANGS['editcancel'] = "取消";
+$LANGS['videoinfo'] = "视频资讯";
+$LANGS['videothumbnail'] = "视频封面";
+$LANGS['uploadthumbnail'] = "上传视频封面";
+$LANGS['customthumbdesc'] = '如要设置自定义封面，请点击左侧的封面并选择所需的图像文件，然后点击“上传视频封面”就可。';
+$LANGS['customthumbtitle'] = '您想要改变此视频的封面吗？';
+$LANGS['customthumbinfo'] = '此功能仅加入合作伙伴计划的用户可使用。想详细了解加入合作伙伴计划的优势及其要求，请点击下方的“详情”按钮。';
+$LANGS['partnerreadmore'] = '详情';
+$LANGS['broadcastingoptions'] = '视频隐私设置';
+$LANGS['publicdesc'] = "每个人可以搜索并观看或者被推荐";
+$LANGS['privatedesc'] = "只有特定用户才可观看";
+$LANGS['allowcomments'] = "允许任何用户评论";
+$LANGS['allowfriendcomments'] = "只允许好友评论";
+$LANGS['disablecomments'] = "禁用评论";
+$LANGS['dateandmap'] = "日期与位置";
+$LANGS['clear'] = "清除";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Added";
@@ -858,8 +858,8 @@ $LANGS['female'] = '女';
 $LANGS['status'] = '个人状态';
 $LANGS['single_m'] = '单身';
 $LANGS['single_f'] = '单身';
-$LANGS['taken_m'] = '已婚';
-$LANGS['taken_f'] = '已婚';
+$LANGS['taken_m'] = '非单身';
+$LANGS['taken_f'] = '非单身';
 $LANGS['married_m'] = '已婚';
 $LANGS['married_f'] = '已婚';
 $LANGS['country'] = '国家与地区';
@@ -942,7 +942,7 @@ $LANGS['showage'] = '展示年龄';
 $LANGS['aboutme'] = '关于我';
 $LANGS['emailprefs'] = '邮件选择';
 $LANGS['emailpm'] = '通过私人信息向我发送电邮';
-$LANGS['emailcomm'] = 'E-Mail me on Video Comments';
+$LANGS['emailcomm'] = '通过视频的留言向我发送电邮';
 $LANGS['emailsub'] = 'E-Mail me on weekly Subscription Highlights';
 $LANGS['layoutprefs'] = '主题';
 $LANGS['bgcolor'] = '背景颜色';
@@ -1065,13 +1065,13 @@ $LANGS['letter'] = "Dear Co-Owners, Developers, and Moderators of BitView,<br><b
 $LANGS['backtobitview'] = "Back to BitView";
 
 /* My Friends */
-$LANGS['myfriends'] = 'My Friends';
-$LANGS['invites'] = 'Invites';
-$LANGS['myinvites'] = 'My Invites';
-$LANGS['incominginvites'] = 'Incoming Invites';
-$LANGS['noinvites'] = 'You have no invites...';
-$LANGS['actions'] = 'Actions';
-$LANGS['retract'] = 'Retract';
+$LANGS['myfriends'] = '我的好友';
+$LANGS['invites'] = '好友邀请';
+$LANGS['myinvites'] = '由我发送';
+$LANGS['incominginvites'] = '由他人发送';
+$LANGS['noinvites'] = '您仍无任何好友邀请...';
+$LANGS['actions'] = '接受';
+$LANGS['retract'] = '拒绝';
 
 /* About */
 $LANGS['aboutus'] = '关于我们';
@@ -1113,7 +1113,7 @@ $LANGS['thismonthcontest'] = "这次大赛的主题是？";
 $LANGS['lastmonthwinners'] = "上次大赛的赢家";
 $LANGS['howtoenter'] = "如何参加？";
 $LANGS['whowins'] = "谁是赢家？";
-$LANGS['whowinsdesc'] = "The winner will be picked at the end of the month by the BitView staff.";
+$LANGS['whowinsdesc'] = "赢家会在月尾，由参与BitView的开发者决定。";
 $LANGS['theprize'] = "赢了有什么奖励？";
 $LANGS['theprizedesc'] = "名声，财富和来自许多人羡（ji）慕（du）的眼光。";
 $LANGS['contestsuggestion'] = '如您想对创作大赛提出建议，请 <a href="mailto:contact@vidlii.co">联系我们</a> 。';
@@ -1122,7 +1122,7 @@ $LANGS['contestsuggestion'] = '如您想对创作大赛提出建议，请 <a hre
 $LANGS['q1'] = 'Q: 如何分享我上传的视频How can I share my videos and link to them from my website?';
 $LANGS['a1'] = 'A: <a href="/sharing">How to share and link to your videos</a>';
 $LANGS['q2'] = '问：我可以上传什么视频呢？';
-$LANGS['a2'] = '答：您可以上传您想向全世界展示的任何类型的个人视频。我们绝不允许任何用户发布有关裸露内容的视频，并且您的视频必须使用任何观众。
+$LANGS['a2'] = '答：您可以上传您想向全世界展示的任何类型的个人视频。我们绝不允许任何用户发布有关裸露内容的视频，并且您的视频必须适合任何观众。
 <br/>
 <br/>
 然而，这仍然对您的创作并没有什么太大的影响！请问您的家中有养 <a href="results?search=dog&t=Search+Videos">狗</a> 或者 <a href="/results?search=cat&t=Search+Videos">猫</a>吗？请问您去了 <a href="/results?search=mexico&t=Search+Videos">墨西哥</a>度假吗？请问您住在 <a href="/results?search=netherlands&t=Search+Videos">荷兰</a>？
