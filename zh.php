@@ -1028,7 +1028,7 @@ $LANGS['partnerdesc'] = "您拥有精彩的视频和不断增长的观众。让B
 $LANGS['applynow'] = '立即申请';
 $LANGS['contentpartners'] = '已加入的用户';
 $LANGS['partnerbenefits'] = '福利';
-$LANGS['partnerbenefitsdesc'] = '如您加入了我们的合作团队计划，那么您将拥有以下福利：<br><br>- 更好塑造您的频道形象：通过可自定义的make yourself stand out with custom branding, which includes banners, a custom box for your channel and a partner badge on all your videos.<br><br>- There are more benefits to come in the future!';
+$LANGS['partnerbenefitsdesc'] = '如您加入了我们的合作团队计划，那么您将拥有以下福利：<br><br>- 更好塑造您的频道形象：通过可自定义的频道的横幅、自定义框以及所有视频上的合作伙伴徽章让您的频道脱颖而出。<br><br>- 未来将会有更多福利！';
 $LANGS['qualificationsfaq'] = '申请资格';
 $LANGS['qualificationsfaqdesc'] = '如果要申请BitView合作伙伴计划，那么您的频道必须符合以下条件：<br><br>- 您频道的视频必须主要以原创视频为主。<br><br>- 您的频道不可低于75订阅者。<br><br>- 您的频道必须没有违反到我们的 <a href="/guidelines">社区准则。</a>';
 
@@ -1044,11 +1044,11 @@ $LANGS['modsanddevs'] = 'Moderators and Developers';
 $LANGS['modsanddevsdesc'] = 'People who keep the website safe and clear. Have any problem with your account? You should contact them.';
 $LANGS['moderator'] = 'Moderator';
 $LANGS['moddev'] = 'Developer &<br>Moderator';
-$LANGS['lettertitle'] = 'Letter to all the people who helped with the website';
-$LANGS['letter'] = "Dear Co-Owners, Developers, and Moderators of BitView,<br><br>
-                On behalf of the entire BitView team, I would like to express my heartfelt gratitude for your exceptional dedication and hard work. As one of the owners, it fills me with immense pride to witness the growth and success of our video-sharing platform, and it would not have been possible without your invaluable contributions.
+$LANGS['lettertitle'] = '致全体参与此网站开发之工作者感谢信';
+$LANGS['letter'] = "亲爱的BitView 共同所有者、开发者和版主，<br><br>
+                本人谨代表全体BitView团队，对您们无私的奉献和不懈的努力在此致谢。身为此网站的所有者之一，本人对此网站的成功和发展感到无比自豪，如果没有全体同仁们的不懈努力与奋斗，就没有我们今天的成果。
                 <br><br>
-                To rest of the Co-Owners, thank you for your unwavering support and vision. Your commitment to the platform's development and improvement has been instrumental in shaping BitView.net into the remarkable community it is today. Your leadership and strategic guidance have been vital in navigating the challenges and opportunities that have come our way.
+                致其他所有者，感谢您们不尽的支持与青睐。the Co-Owners, thank you for your unwavering support and vision. Your commitment to the platform's development and improvement has been instrumental in shaping BitView.net into the remarkable community it is today. Your leadership and strategic guidance have been vital in navigating the challenges and opportunities that have come our way.
                 <br><br>
                 To our talented Developers, your technical expertise and innovative ideas have transformed BitView into a cutting-edge platform that perfectly represent how YouTube looked like back in the days. Your countless hours of coding, problem-solving, and feature implementation have elevated the user experience and made our platform a hub of creativity and entertainment. Your dedication to refining the functionality and performance of the site has been truly commendable.
                 <br><br>
@@ -1139,17 +1139,17 @@ $LANGS['q6'] = '问：我是否保留视频的版权和其他的合法权利？'
 $LANGS['a6'] = '答：是的，您仍保留对您的视频的所有权利。BitView并不承担您所使用的材料的版权。';
 $LANGS['q7'] = '问：BitView对于侵犯版权的政策是什么？';
 $LANGS['a7'] = "答：BitView尊重版权所有者和发布者的权利，并且仅接受对所上传的材料拥有所有必要权利的人上传的视频。Our policy is to respond to any notices of alleged infringement that comply with the Digital Millennium Copyright Act (DMCA). If we receive a notice or otherwise have reason to believe that content you submitted infringes another party's copyright, your account may be terminated and the video removed from BitView.";
-$LANGS['q8'] = 'Q: How do I report copyright infringement?';
-$LANGS['a8'] = 'A: If you believe that someone else has uploaded your copyrighted content without your permission, we encourage you to contact that person in order to resolve any differences with them directly. You can also contact our support team using this <a href="mailto:contact@vidlii.co">email</a>.';
-$LANGS['q9'] = 'Q: What if I have been falsely accused of copyright infringement?';
-$LANGS['a9'] = "A: We'll let you know if we receive a copyright complaint about any of your video content that is hosted on BitView. We'll give you the opportunity to respond appropriately.";
-$LANGS['q10'] = 'Q: What are you doing to prevent content that violates your policies from appearing in BitView?';
-$LANGS['a10'] = 'A: We do a preliminary review on uploaded videos through both a manual and automated process. Although we try our best to detect and remove videos that violate our policy guidelines, our review process is primarily focused on removing adult content or obvious copyright violations, and is not bulletproof. However, we encourage our viewers to notify us when they discover policy violations or copyright issues -- we have a process for reviewing reported policy violations, and respond to reported copyright violations under the Digital Millennium Copyright Act.';
-$LANGS['q11'] = 'Q: Do you have a Discord server or Twitter?';
-$LANGS['a11'] = 'Yes! We actually have a Discord server and Twitter. You can join into the Discord server by clicking <a href="https://discord.gg/wgGaqCmwuQ">here</a>, and follow us on Twitter <a href="https://twitter.com/bitview_">here</a>.';
-$LANGS['q12'] = "Q: I'm using an old browser while on BitView and thus can't watch videos. What can I do?";
-$LANGS['activate'] = 'Activate';
-$LANGS['deactivate'] = 'Deactivate';
+$LANGS['q8'] = '问：我如何举报侵权的内容？';
+$LANGS['a8'] = '答：答：如果您认为他人未经您的许可自行上传了您受版权保护的内容，我们鼓励您与上传者联系，以便直接解决与他们的任何分歧。除此之外，您还可以发送电子邮件<a href="mailto:contact@vidlii.co">联系我们的团队</a>。';
+$LANGS['q9'] = '问：如果我被诬告侵权，该怎么办？';
+$LANGS['a9'] = "答：如果我们收到有关您在 BitView 上上传的视频遭到版权投诉，我们将会通知您，并且会为您提供适当回应的机会。";
+$LANGS['q10'] = '问：所以你们采取了哪些措施来防止 BitView 中违反了你们政策的内容？';
+$LANGS['a10'] = '答：答：我们通过人工和自动流程对上传的视频进行初步审核。即使我们会检测并移除违反政策准则的视频，但我们主要集中在移除包含成人内容或侵权的视频，并且这不意味着这是万无一失的。所以，我们鼓励大家在发现违反政策或侵权的内容时通知我们。我们拥有一个审查举报违反政策行为的流程，并且会根据《数字千年版权法》对举报的内容做出回应。';
+$LANGS['q11'] = '问：请问你们有Discord伺服器或者推特账号吗？';
+$LANGS['a11'] = '有的！您可<a href="https://discord.gg/wgGaqCmwuQ">点击此链接</a>以加入我们的Discord伺服器或者<a href="https://twitter.com/bitview_">点击此链接</a>以关注我们的推特账号。';
+$LANGS['q12'] = "问：我正使用着旧浏览器浏览BitView，因此无法播放视频。我该如何解决这个问题？";
+$LANGS['activate'] = '激活';
+$LANGS['deactivate'] = '关闭';
 $LANGS['flashdisclaimer'] = "<b>Note:</b> BitView's Flash Player is being offered as a compatibility option. If your browser supports BitView's HTML5 player you shouldn't enable this option.";
 
 /* Share */
